@@ -12,6 +12,11 @@
         <module>registry</module>
         <module>leyou-registry</module>
         <module>leyou-gateway</module>
+        <module>leyou-item</module>
+        <module>leyou-item-interface</module>
+        <module>leyou-item/leyou-item-interface</module>
+        <module>leyou-item-service</module>
+        <module>leyou-item/leyou-item-service</module>
     </modules>
 
     <name>leyou</name>
